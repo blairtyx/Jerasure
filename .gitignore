@@ -26,3 +26,4 @@ Makefile.in
 .dirstamp
 *.log
 *.trs
+/.vscode
